@@ -1,0 +1,8 @@
+# Ignore Mac system files and thumbnails:
+._*
+.DS_Store
+
+# Ignore vim temp and swap files:
+*~
+*.swp
+*.swo
