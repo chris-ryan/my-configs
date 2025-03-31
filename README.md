@@ -1,6 +1,10 @@
 # my-configs
 Configs I use on macOS/Linux. Github, Neovim, Ghostty, Rstudio, Zed
 
+# Installation
+```sh
+git clone git@github.com:chris-ryan/my-configs.git ~/.config
+```
 
 ## Git
 By default, git will include parameters in .config/git/config as global config parameters the same way it does with ~/.gitconfig.
