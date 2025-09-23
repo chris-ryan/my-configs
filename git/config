@@ -16,3 +16,6 @@
 
 [merge]
     conflictstyle = zdiff3
+[user]
+	name = Chris Ryan
+	email = chris@codeology.com.au

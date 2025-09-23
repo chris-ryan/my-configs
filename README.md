@@ -14,3 +14,9 @@ You can confirm which files are being loaded with:
 ```bash
 git config --list --show-origin --show-scope
 ```
+
+
+##Ghostty
+
+**Dependencies**
+- Font: [Monaspace](https://github.com/githubnext/monaspace)
